@@ -32,8 +32,8 @@ would typically favour the team that is number 1. • Home/Away Team: In soccer 
 home advantage. Usually a team playing in the home
 stadium has an advantage over the away team.
 
-### Team’s Form: Given a previous number of games, it is
-easy to see the performance of the team. A team that is
+### Team’s Form: 
+Given a previous number of games, it is easy to see the performance of the team. A team that is
 on a number of win streaks, would typically have a better
 team form.
 
