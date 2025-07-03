@@ -12,8 +12,8 @@ draw, away win).
 2. Determine the features required for the model. 6 features
 are used for the model:
 
-### • Team’s average player rating: If individual players in
-a team are good, this boosts the overall team’s player
+### • Team’s average player rating: 
+If individual players in a team are good, this boosts the overall team’s player
 rating. In the above Kaizer Chiefs against Manchester
 United example, Manchester United is competing in best
 league, it has the best individual players by far compared
