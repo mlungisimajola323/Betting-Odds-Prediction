@@ -12,13 +12,13 @@ draw, away win).
 2. Determine the features required for the model. 6 features
 are used for the model:
 
-• Team’s average player rating: If individual players in
+### • Team’s average player rating: If individual players in
 a team are good, this boosts the overall team’s player
 rating. In the above Kaizer Chiefs against Manchester
 United example, Manchester United is competing in best
 league, it has the best individual players by far compared
 to Kaizer Chiefs 
-• League division: In all countries there is a hierarchy in
+### • League division: In all countries there is a hierarchy in
 soccer league divisions. Division 1 is the most elite level
 where best teams play. Division 2 is lower than division
 1, teams that play in division 2 are not as good as those
