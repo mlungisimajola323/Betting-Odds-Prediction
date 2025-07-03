@@ -17,7 +17,7 @@ a team are good, this boosts the overall team’s player
 rating. In the above Kaizer Chiefs against Manchester
 United example, Manchester United is competing in best
 league, it has the best individual players by far compared
-to Kaizer Chiefs
+to Kaizer Chiefs \\
 • League division: In all countries there is a hierarchy in
 soccer league divisions. Division 1 is the most elite level
 where best teams play. Division 2 is lower than division
